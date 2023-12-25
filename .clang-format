@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+ContinuationIndentWidth: 8
+
+ColumnLimit: 120
+
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLoopsOnASingleLine: true
+
+InsertNewlineAtEOF: true
